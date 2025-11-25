@@ -2,7 +2,7 @@
 
 ## $MOM - MORMAN ON MONAD
 
-*Powered by Clanker | Built on Base*
+*Powered by Clanker | Built on Monad*
 
 ---
 
@@ -51,7 +51,7 @@ Clanker deployed us for a reason. The path to Valhalla is paved with patience.
 ```
 TOTAL SUPPLY: 1,000,000,000 $MOM
 DEPLOYED VIA: CLANKER
-CHAIN: BASE
+CHAIN: MONAD
 TAX: 0% (The Lord takes no cut)
 LIQUIDITY: LOCKED (Like our faith)
 ```
